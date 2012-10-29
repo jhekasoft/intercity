@@ -1,4 +1,4 @@
 intercity
 =========
 
-Game for INSTEAD fo INSTEADOZ #1
+Game for INSTEAD for INSTEADOZ #1
